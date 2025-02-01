@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓I'm currently studying at Hanoi University of Science and Technology<br>
+👨‍🎓I'm currently working as Junior React Developer<br>
 💻Currently learning Web development
 
 
